@@ -42,7 +42,6 @@ const App = () => {
 
   return (
     <div className='app-container'>
-      {/* This is a sample comment */}
       <div className='temperature-display-container'>
         <div className={`temperature-display ${temperatureColor}`}>{initTemp}°C</div>
       </div>
