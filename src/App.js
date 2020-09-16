@@ -43,6 +43,7 @@ const App = () => {
   return (
     <div className='app-container'>
       {/* Test with the hash tag */}
+      {/* get ready for a major release */}
       <div className='temperature-display-container'>
         <div className={`temperature-display ${temperatureColor}`}>{initTemp}°C</div>
       </div>
