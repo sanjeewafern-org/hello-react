@@ -3,6 +3,8 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 
+// This is a JS comment
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
